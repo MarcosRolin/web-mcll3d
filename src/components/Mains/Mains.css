@@ -1,0 +1,59 @@
+ .mains {
+     display: flex;
+     width: 100vw;
+     height: auto;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 5rem 0;
+     background: #ffff;
+ }
+
+ .mains-content {
+     text-align: center;
+     color: #162938;
+
+ }
+
+ .mains-content h2 {
+     font-size: 2.5rem;
+     margin-bottom: 1rem;
+ }
+
+ .title1 {
+    text-align: center;
+    /* color: #fff; */
+    color: #162938;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+
+ .mains-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+ .mains-content p {
+     background-color: #162938;
+     color: white;
+     padding: 10px;
+     border-radius: 5px;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+     position: relative;
+     overflow: hidden;
+ }
+
+ 
+
+
+ .btn {
+     height: 4rem;
+     background-color: #162938;
+     color: #fff;
+     border: none;
+     padding: 0.8rem 1.5rem;
+     font-size: 2rem;
+     border-radius: 4px;
+     cursor: pointer;
+ }

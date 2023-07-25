@@ -1,0 +1,23 @@
+.portada{
+    width: 100vw;
+    height: 99vh;
+}
+
+.portada-img{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+@media (max-width: 480px) { 
+  .portada{
+    width: 100vw;
+    height: auto;
+}
+  
+  .portada-img {
+        padding-top: 4.5rem;
+      max-width: 100%;
+      height: auto;
+    }
+  }

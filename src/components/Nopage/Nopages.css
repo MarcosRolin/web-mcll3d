@@ -1,0 +1,32 @@
+.error-404{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.title-error{
+  font-size: 2rem;
+}
+
+.img-error{
+  width: 50%;
+}
+
+.btn-error{
+  padding: 13px 30px;
+  border-radius: 15px;
+  border: none;
+  background: rgb(5, 129, 245);
+  color: white;
+}
+
+@media (max-width: 480px) {
+
+  .error-404{
+    
+    padding: 4rem 0;
+  }
+}
